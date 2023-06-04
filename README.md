@@ -11,16 +11,15 @@
 <img width="100%" src="./asset/B38A17D34E9DADE1899DE4BE2A02A751.jpg">
 
 # 特性
-<details>
+<details open>
   <summary><strong>禁用复制文本的弹窗</strong></summary>
 </details>
-<details>
+<details open>
   <summary><strong>删除作者详情页广告并调整样式</strong></summary>
 
   ![](./asset/Snipaste_2023-06-04_16-54-52.png)
 </details>
-
-<details>
+<details open>
   <summary><strong>删除诗词详情页广告并调整样式</strong></summary>
   
   ![](./asset/Snipaste_2023-06-04_17-00-12.png)
@@ -38,15 +37,17 @@ tampermonkey-gusiwen_delads 是 Tampermonkey 的脚本，因此你需要先安�
 
 复制 [dis\/gusiwen_delads.min.js] 的内容，以此在 Tampermonkey 的 dashboard新建脚本。
 
-setp1: Create a new script
+**step1: Create a new script**
 
-![](./asset/Snipaste_2023-06-04_16-46-15.png)
+|![](./asset/Snipaste_2023-06-04_16-46-15.png)|
+|:--:|
 
-setp2：粘贴 [dis\/gusiwen_delads.min.js] 内容
+**setp2：粘贴 [dis\/gusiwen_delads.min.js] 内容**
 
-![](./asset/Snipaste_2023-06-04_16-49-23.png)
+|![](./asset/Snipaste_2023-06-04_16-49-23.png)|
+|:--:|
 
-step3：保存
+**step3：保存**
 
 # 赞赏
 
@@ -66,7 +67,7 @@ step3：保存
 
 [MIT] @ [isaaxite]
 
-[MIT]: xxx
+[MIT]: https://github.com/isaaxite/tampermonkey-gusiwen_delads/blob/main/LICENSE
 [isaaxite]: https://github.com/isaaxite
 [Tampermonkey]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related
 [Isaac Kam's Blog]: https://isaaxite.github.io/blog/
