@@ -86,8 +86,6 @@
 
 🔗 [Greasyfork]
 
-🔗 [古诗文网]
-
 # 🆔 License
 
 [MIT] @ [isaaxite]
