@@ -6,7 +6,7 @@
 ![code-size](https://img.shields.io/github/languages/code-size/isaaxite/tampermonkey-gusiwen_delads)
 ![last-commit](https://img.shields.io/github/last-commit/isaaxite/tampermonkey-gusiwen_delads)
 
-适用于[古诗文网]，tampermonkey的去广告脚本
+适用于[古诗文网]，一个去广告的 [Tampermonkey] 脚本
 
 <img width="100%" src="https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/B38A17D34E9DADE1899DE4BE2A02A751.jpg">
 
