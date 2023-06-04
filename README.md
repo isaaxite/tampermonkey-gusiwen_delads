@@ -27,7 +27,8 @@
 
 **Tampermonkey Gusiwen Delads** 是一个 **[Tampermonkey]** 脚本，因此你需要先安装 **[Tampermonkey]**！
 
-![Tampermonkey](https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/Snipaste_2023-06-04_21-49-29.png)
+|![Tampermonkey](https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/Snipaste_2023-06-04_21-49-29.png)|
+|:--:|
 
 ## 使用 greasyfork 安装
 
