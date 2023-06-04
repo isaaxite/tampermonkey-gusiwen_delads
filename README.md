@@ -6,7 +6,7 @@
 ![code-size](https://img.shields.io/github/languages/code-size/isaaxite/tampermonkey-gusiwen_delads)
 ![last-commit](https://img.shields.io/github/last-commit/isaaxite/tampermonkey-gusiwen_delads)
 
-适用于[古诗文网]，一个去广告的 [Tampermonkey(油猴/改猴)] 脚本
+适用于[古诗文网]，一个去广告的 [Tampermonkey(油猴/窜改猴)] 脚本
 
 <img width="100%" src="https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/B38A17D34E9DADE1899DE4BE2A02A751.jpg">
 
@@ -84,7 +84,7 @@
 [MIT]: https://github.com/isaaxite/tampermonkey-gusiwen_delads/blob/main/LICENSE
 [isaaxite]: https://github.com/isaaxite
 [Tampermonkey]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related
-[Tampermonkey(油猴/改猴)]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related
+[Tampermonkey(油猴/窜改猴)]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related
 [Isaac Kam's Blog]: https://isaaxite.github.io/blog/
 [dist\/gushiwen_delads.min.js]: https://raw.githubusercontent.com/isaaxite/tampermonkey-gusiwen_delads/main/dist/gushiwen_delads.min.js
 [古诗文网]:https://www.gushiwen.cn/
