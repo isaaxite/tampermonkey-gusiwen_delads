@@ -25,26 +25,26 @@
 
 # 安装
 
-tampermonkey-gusiwen_delads 是 Tampermonkey 的脚本，因此你需要先安装 [Tampermonkey]。
+**Tampermonkey Gusiwen Delads** 是一个 **[Tampermonkey]** 脚本，因此你需要先安装 **[Tampermonkey]**，然后把 **Tampermonkey Gusiwen Delads** 安装到 **[Tampermonkey]**！
 
 ## 使用 greasyfork 安装
 
 **step1**：进入[Greasyfork并搜索脚本：GushiwenDelads](https://greasyfork.org/en/scripts/467864-gushiwendelads)
 
 
-**step2**：点击 [Install this script](https://greasyfork.org/scripts/467864-gushiwendelads/code/GushiwenDelads.user.js)
+**step2**：点击 [`Install this script`](https://greasyfork.org/scripts/467864-gushiwendelads/code/GushiwenDelads.user.js)
 
 |![](https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/Snipaste_2023-06-04_17-30-58.png)|
 |:--:|
 ## 手动安装
 
-复制 [dist\/gushiwen_delads.min.js] 的内容，以此在 Tampermonkey 的 dashboard新建脚本。
+复制 [dist\/gushiwen_delads.min.js] 的内容，以此在 Tampermonkey 新建脚本。
 
-**step1**；Create a new script
+**step1**；`Create a new script`
 
 **setp2**：粘贴 [dist\/gushiwen_delads.min.js] 的内容
 
-**step3**：保存
+**step3**：`Ctrl + S` 保存
 
 |![](https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/Snipaste_2023-06-04_17-27-10.png)|
 |:--:|
@@ -74,3 +74,4 @@ tampermonkey-gusiwen_delads 是 Tampermonkey 的脚本，因此你需要先安�
 [Isaac Kam's Blog]: https://isaaxite.github.io/blog/
 [dist\/gushiwen_delads.min.js]: https://raw.githubusercontent.com/isaaxite/tampermonkey-gusiwen_delads/main/dist/gushiwen_delads.min.js
 [古诗文网]:https://www.gushiwen.cn/
+[Tampermonkey]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
