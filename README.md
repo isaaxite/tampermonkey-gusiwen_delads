@@ -8,7 +8,7 @@
 
 适用于[古诗文网]，tampermonkey的去广告脚本
 
-<img width="100%" src="./asset/B38A17D34E9DADE1899DE4BE2A02A751.jpg">
+<img width="100%" src="https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/B38A17D34E9DADE1899DE4BE2A02A751.jpg">
 
 # 特性
 <details open>
@@ -16,13 +16,11 @@
 </details>
 <details open>
   <summary><strong>删除作者详情页广告并调整样式</strong></summary>
-
-  ![](./asset/Snipaste_2023-06-04_16-54-52.png)
+  <img src="https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/Snipaste_2023-06-04_16-54-52.png"/>
 </details>
 <details open>
   <summary><strong>删除诗词详情页广告并调整样式</strong></summary>
-  
-  ![](./asset/Snipaste_2023-06-04_17-00-12.png)
+  <img src="https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/Snipaste_2023-06-04_17-00-12.png"/>
 </details>
 
 # 安装
@@ -36,28 +34,29 @@ tampermonkey-gusiwen_delads 是 Tampermonkey 的脚本，因此你需要先安�
 
 **step2**：点击 [Install this script](https://greasyfork.org/scripts/467864-gushiwendelads/code/GushiwenDelads.user.js)
 
-|![](./asset/Snipaste_2023-06-04_17-30-58.png)|
+|![](https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/Snipaste_2023-06-04_17-30-58.png)|
 |:--:|
 ## 手动安装
 
 复制 [dis\/gusiwen_delads.min.js] 的内容，以此在 Tampermonkey 的 dashboard新建脚本。
 
-**step1**: Create a new script
+**step1**；Create a new script
 
 **setp2**：粘贴 [dis\/gusiwen_delads.min.js] 内容
 
 **step3**：保存
 
-|![](./asset/Snipaste_2023-06-04_17-27-10.png)|
+|![](https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/Snipaste_2023-06-04_17-27-10.png)|
 |:--:|
 
 # 赞赏
 
 <details>
 <summary><strong>Buy me a Coffee</strong></summary>
-
-|![alipay](https://isaaxite.github.io/blog/images/alipay.jpg)|![wechatpay](https://isaaxite.github.io/blog/images/wechatpay.jpg)|
-|:--:|:--:|
+<table>
+<th><img src="https://isaaxite.github.io/blog/images/alipay.jpg"></th>
+<th><img src="https://isaaxite.github.io/blog/images/wechatpay.jpg"></th>
+</table>
 
 </details>
 
