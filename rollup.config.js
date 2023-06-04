@@ -1,5 +1,6 @@
 // rollup.config.js
-import {terser} from 'rollup-plugin-terser';
+import { terser } from 'rollup-plugin-terser';
+import styles from "rollup-plugin-styles";
 
 export default {
 	input: 'index.js',
@@ -13,11 +14,11 @@ export default {
         }
       })]
 		}
-	]
+	],
+  plugins: [styles()]
 };
 
 function saveCommentsOfTampermonkeyPlugins(node, comment) {
-  const text = comment.value;
   const regexp = new RegExp([
     '==UserScript==',
     '@name',
