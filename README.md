@@ -38,11 +38,11 @@ tampermonkey-gusiwen_delads 是 Tampermonkey 的脚本，因此你需要先安�
 |:--:|
 ## 手动安装
 
-复制 [dis\/gusiwen_delads.min.js] 的内容，以此在 Tampermonkey 的 dashboard新建脚本。
+复制 [dist\/gushiwen_delads.min.js] 的内容，以此在 Tampermonkey 的 dashboard新建脚本。
 
 **step1**；Create a new script
 
-**setp2**：粘贴 [dis\/gusiwen_delads.min.js] 内容
+**setp2**：粘贴 [dist\/gushiwen_delads.min.js] 的内容
 
 **step3**：保存
 
@@ -72,5 +72,5 @@ tampermonkey-gusiwen_delads 是 Tampermonkey 的脚本，因此你需要先安�
 [isaaxite]: https://github.com/isaaxite
 [Tampermonkey]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related
 [Isaac Kam's Blog]: https://isaaxite.github.io/blog/
-[dis\/gusiwen_delads.min.js]: https://raw.githubusercontent.com/isaaxite/tampermonkey-gusiwen_delads/main/dist/gusiwen_delads.min.js
+[dist\/gushiwen_delads.min.js]: https://raw.githubusercontent.com/isaaxite/tampermonkey-gusiwen_delads/main/dist/gushiwen_delads.min.js
 [古诗文网]:https://www.gushiwen.cn/

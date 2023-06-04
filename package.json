@@ -1,13 +1,15 @@
 {
   "name": "tampermonkey-gusiwen_delads",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "适用于古诗文网，tampermonkey的去广告脚本",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup --config"
   },
   "repository": {
     "type": "git",
@@ -25,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/isaaxite/tampermonkey-gusiwen_delads/issues"
   },
-  "homepage": "https://github.com/isaaxite/tampermonkey-gusiwen_delads#readme"
+  "homepage": "https://github.com/isaaxite/tampermonkey-gusiwen_delads#readme",
+  "devDependencies": {
+    "rollup": "^3.23.0"
+  }
 }
