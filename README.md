@@ -1,4 +1,4 @@
-# Tampermonkey Gusiwen Delads
+# 🚀 Tampermonkey Gusiwen Delads
 
 [![license](https://img.shields.io/bower/l/MI)](https://github.com/isaaxite/tampermonkey-gusiwen_delads/blob/main/LICENSE)
 ![languages-top](https://img.shields.io/github/languages/top/isaaxite/tampermonkey-gusiwen_delads)
@@ -21,7 +21,7 @@
 
 <img width="100%" src="https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/B38A17D34E9DADE1899DE4BE2A02A751.jpg">
 
-# 🚀 特性
+# 🧀 特性
 <details open>
   <summary><strong>禁用复制文本的弹窗</strong></summary>
 </details>
@@ -41,7 +41,7 @@
 |[![Tampermonkey](https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/Snipaste_2023-06-04_21-49-29.png)](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related)|
 |:--:|
 
-## 使用 greasyfork 安装
+## 🛺 greasyfork 安装
 
 **step1**：进入[Greasyfork并搜索脚本：GushiwenDelads](https://greasyfork.org/en/scripts/467864-gushiwendelads)
 
@@ -50,7 +50,7 @@
 
 |![](https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/Snipaste_2023-06-04_17-30-58.png)|
 |:--:|
-## 手动安装
+## 🛵 手动安装
 
 复制 [dist\/gushiwen_delads.min.js] 的内容，以此在 Tampermonkey 新建脚本。
 
