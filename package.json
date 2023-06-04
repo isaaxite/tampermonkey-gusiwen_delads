@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/isaaxite/tampermonkey-gusiwen_delads#readme",
   "devDependencies": {
-    "rollup": "^3.23.0"
+    "rollup": "^3.23.0",
+    "rollup-plugin-terser": "^7.0.2"
   }
 }
