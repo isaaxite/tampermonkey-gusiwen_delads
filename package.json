@@ -6,8 +6,10 @@
   "directories": {
     "lib": "lib"
   },
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup --config"
   },
   "repository": {
     "type": "git",
@@ -25,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/isaaxite/tampermonkey-gusiwen_delads/issues"
   },
-  "homepage": "https://github.com/isaaxite/tampermonkey-gusiwen_delads#readme"
+  "homepage": "https://github.com/isaaxite/tampermonkey-gusiwen_delads#readme",
+  "devDependencies": {
+    "rollup": "^3.23.0"
+  }
 }
