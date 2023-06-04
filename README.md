@@ -25,7 +25,9 @@
 
 # 安装
 
-**Tampermonkey Gusiwen Delads** 是一个 **[Tampermonkey]** 脚本，因此你需要先安装 **[Tampermonkey]**，然后把 **Tampermonkey Gusiwen Delads** 安装到 **[Tampermonkey]**！
+**Tampermonkey Gusiwen Delads** 是一个 **[Tampermonkey]** 脚本，因此你需要先安装 **[Tampermonkey]**！
+
+![Tampermonkey](https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/Snipaste_2023-06-04_21-49-29.png)
 
 ## 使用 greasyfork 安装
 
@@ -62,7 +64,7 @@
 
 # 友情链接
 
-- [Isaac Kam's Blog]
+[Isaac Kam's Blog]
 
 # License
 
