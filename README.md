@@ -31,23 +31,25 @@ tampermonkey-gusiwen_delads 是 Tampermonkey 的脚本，因此你需要先安�
 
 ## 使用 greasyfork 安装
 
-[GushiwenDelads](https://greasyfork.org/en/scripts/467864-gushiwendelads) > [Install this script](https://greasyfork.org/scripts/467864-gushiwendelads/code/GushiwenDelads.user.js)
+**step1**：进入[Greasyfork并搜索脚本：GushiwenDelads](https://greasyfork.org/en/scripts/467864-gushiwendelads)
 
+
+**step2**：点击 [Install this script](https://greasyfork.org/scripts/467864-gushiwendelads/code/GushiwenDelads.user.js)
+
+|![](./asset/Snipaste_2023-06-04_17-30-58.png)|
+|:--:|
 ## 手动安装
 
 复制 [dis\/gusiwen_delads.min.js] 的内容，以此在 Tampermonkey 的 dashboard新建脚本。
 
-**step1: Create a new script**
+**step1**: Create a new script
 
-|![](./asset/Snipaste_2023-06-04_16-46-15.png)|
+**setp2**：粘贴 [dis\/gusiwen_delads.min.js] 内容
+
+**step3**：保存
+
+|![](./asset/Snipaste_2023-06-04_17-27-10.png)|
 |:--:|
-
-**setp2：粘贴 [dis\/gusiwen_delads.min.js] 内容**
-
-|![](./asset/Snipaste_2023-06-04_16-49-23.png)|
-|:--:|
-
-**step3：保存**
 
 # 赞赏
 
