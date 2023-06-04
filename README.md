@@ -1,12 +1,23 @@
 # Tampermonkey Gusiwen Delads
 
 [![license](https://img.shields.io/bower/l/MI)](https://github.com/isaaxite/tampermonkey-gusiwen_delads/blob/main/LICENSE)
+![languages-top](https://img.shields.io/github/languages/top/isaaxite/tampermonkey-gusiwen_delads)
 ![version](https://img.shields.io/github/package-json/v/isaaxite/tampermonkey-gusiwen_delads)
 ![languages-count](https://img.shields.io/github/languages/count/isaaxite/tampermonkey-gusiwen_delads)
+![files](https://img.shields.io/github/directory-file-count/isaaxite/tampermonkey-gusiwen_delads)
 ![code-size](https://img.shields.io/github/languages/code-size/isaaxite/tampermonkey-gusiwen_delads)
+![commit-activity](https://img.shields.io/github/commit-activity/t/isaaxite/tampermonkey-gusiwen_delads)
 ![last-commit](https://img.shields.io/github/last-commit/isaaxite/tampermonkey-gusiwen_delads)
 
 适用于[古诗文网]，一个去广告的 [Tampermonkey(油猴/窜改猴)] 脚本
+
+<details>
+  <summary>什么是 Tampermonkey(油猴/窜改猴) ？</summary>
+  <p></p>
+  <p>Tampermonkey（中文俗称油猴，官方译名窜改猴），是一款浏览器上的扩展，用户可以通过Tampermonkey添加和使用脚本，而脚本是一种可以修改网页JavaScript的程序。</p>
+  <p>Tampermonkey最早由扬·比诺克（Jan Biniok）于2010年5月创建。它最初只是Greasemonkey的一个脚本，之后作为一款独立的扩展在Google Chrome浏览器上推出。2019年，Tampermonkey的用户已经超过1000万。Tampermonkey是Chrome网上应用店上用户数量超过1000万的13个扩展之一。</p>
+  <p></p>
+</details>
 
 <img width="100%" src="https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/B38A17D34E9DADE1899DE4BE2A02A751.jpg">
 
