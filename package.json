@@ -1,0 +1,29 @@
+{
+  "name": "tampermonkey-gusiwen_delads",
+  "version": "1.0.0",
+  "description": "适用于古诗文网，tampermonkey的去广告脚本",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaaxite/tampermonkey-gusiwen_delads.git"
+  },
+  "keywords": [
+    "tampermonkey",
+    "script",
+    "gusiwen",
+    "delete",
+    "ads"
+  ],
+  "author": "isaaxite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isaaxite/tampermonkey-gusiwen_delads/issues"
+  },
+  "homepage": "https://github.com/isaaxite/tampermonkey-gusiwen_delads#readme"
+}
