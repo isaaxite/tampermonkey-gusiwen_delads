@@ -10,7 +10,7 @@
 
 <img width="100%" src="https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/B38A17D34E9DADE1899DE4BE2A02A751.jpg">
 
-# 特性
+# 🚀 特性
 <details open>
   <summary><strong>禁用复制文本的弹窗</strong></summary>
 </details>
@@ -23,7 +23,7 @@
   <img src="https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/Snipaste_2023-06-04_17-00-12.png"/>
 </details>
 
-# 安装
+# 📔 安装
 
 **Tampermonkey Gusiwen Delads** 是一个 **[Tampermonkey]** 脚本，因此你需要先安装 **[Tampermonkey]**！
 
@@ -52,10 +52,10 @@
 |![](https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/Snipaste_2023-06-04_17-27-10.png)|
 |:--:|
 
-# 赞赏
+# ☕ 赞赏
 
 <details>
-<summary><strong>Buy me a Coffee</strong></summary>
+<summary><strong>Buy me a coffee</strong></summary>
 <table>
 <th><img src="https://isaaxite.github.io/blog/images/alipay.jpg"></th>
 <th><img src="https://isaaxite.github.io/blog/images/wechatpay.jpg"></th>
@@ -63,11 +63,11 @@
 
 </details>
 
-# 友情链接
+# 🤟 友情链接
 
 [Isaac Kam's Blog]
 
-# License
+# 🆔 License
 
 [MIT] @ [isaaxite]
 
