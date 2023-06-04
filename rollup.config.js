@@ -1,6 +1,6 @@
 // rollup.config.js
 import { terser } from 'rollup-plugin-terser';
-import styles from "rollup-plugin-styles";
+import css from "rollup-plugin-import-css";
 
 export default {
 	input: 'index.js',
@@ -15,7 +15,9 @@ export default {
       })]
 		}
 	],
-  plugins: [styles()]
+  plugins: [css({
+    minify: true
+  })]
 };
 
 function saveCommentsOfTampermonkeyPlugins(node, comment) {
