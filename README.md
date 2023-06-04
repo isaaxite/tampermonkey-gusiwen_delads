@@ -65,7 +65,17 @@
 
 # 🤟 友情链接
 
-[Isaac Kam's Blog]
+🔗 [Isaac Kam's Blog]
+
+🔗 [Issues]
+
+🔗 [gushiwen]
+
+🔗 [Tampermonkey](https://www.tampermonkey.net/)
+
+🔗 [Greasyfork]
+
+🔗 [古诗文网]
 
 # 🆔 License
 
@@ -77,4 +87,6 @@
 [Isaac Kam's Blog]: https://isaaxite.github.io/blog/
 [dist\/gushiwen_delads.min.js]: https://raw.githubusercontent.com/isaaxite/tampermonkey-gusiwen_delads/main/dist/gushiwen_delads.min.js
 [古诗文网]:https://www.gushiwen.cn/
-[Tampermonkey]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+[Issues]: https://github.com/isaaxite/tampermonkey-gusiwen_delads/issues
+[gushiwen]: https://www.gushiwen.cn/
+[Greasyfork]: https://greasyfork.org/en
