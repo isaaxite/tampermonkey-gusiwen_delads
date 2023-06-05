@@ -8,8 +8,8 @@
 ![code-size](https://img.shields.io/github/languages/code-size/isaaxite/tampermonkey-gusiwen_delads)
 ![commit-activity](https://img.shields.io/github/commit-activity/t/isaaxite/tampermonkey-gusiwen_delads)
 ![last-commit](https://img.shields.io/github/last-commit/isaaxite/tampermonkey-gusiwen_delads)
-![issues-raw](https://img.shields.io/github/issues-raw/isaaxite/tampermonkey-gusiwen_delads)
-![issues-closed-raw](https://img.shields.io/github/issues-closed-raw/isaaxite/tampermonkey-gusiwen_delads)
+[![issues-raw](https://img.shields.io/github/issues-raw/isaaxite/tampermonkey-gusiwen_delads)](https://github.com/isaaxite/tampermonkey-gusiwen_delads/issues)
+[![issues-closed-raw](https://img.shields.io/github/issues-closed-raw/isaaxite/tampermonkey-gusiwen_delads)](https://github.com/isaaxite/tampermonkey-gusiwen_delads/issues?q=is%3Aissue+is%3Aclosed)
 
 适用于[古诗文网]，一个去广告的 [Tampermonkey(油猴/窜改猴)] 脚本
 
