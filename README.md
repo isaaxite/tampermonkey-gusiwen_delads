@@ -48,7 +48,7 @@
   <img src="https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/Snipaste_2023-06-04_17-00-12.png"/>
 </details>
 
-# 📔 安装
+# 🔩 安装
 
 **Tampermonkey Gusiwen Delads** 是一个 **[Tampermonkey]** 脚本，因此你需要先安装 **[Tampermonkey]**！
 
@@ -100,7 +100,7 @@
 
 🔗 [Greasyfork]
 
-# 🆔 License
+# 📝 License
 
 [MIT] @ [isaaxite]
 
