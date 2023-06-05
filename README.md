@@ -13,10 +13,12 @@
 
 <details>
   <summary>什么是 Tampermonkey(油猴/窜改猴) ？</summary>
-  <p></p>
-  <p>Tampermonkey（中文俗称油猴，官方译名窜改猴），是一款浏览器上的扩展，用户可以通过Tampermonkey添加和使用脚本，而脚本是一种可以修改网页JavaScript的程序。</p>
-  <p>Tampermonkey最早由扬·比诺克（Jan Biniok）于2010年5月创建。它最初只是Greasemonkey的一个脚本，之后作为一款独立的扩展在Google Chrome浏览器上推出。2019年，Tampermonkey的用户已经超过1000万。Tampermonkey是Chrome网上应用店上用户数量超过1000万的13个扩展之一。</p>
-  <p></p>
+  <blockquote>
+    <br/>
+    <p>Tampermonkey（中文俗称油猴，官方译名窜改猴），是一款浏览器上的扩展，用户可以通过Tampermonkey添加和使用脚本，而脚本是一种可以修改网页JavaScript的程序。</p>
+    <p>Tampermonkey最早由扬·比诺克（Jan Biniok）于2010年5月创建。它最初只是Greasemonkey的一个脚本，之后作为一款独立的扩展在Google Chrome浏览器上推出。2019年，Tampermonkey的用户已经超过1000万。Tampermonkey是Chrome网上应用店上用户数量超过1000万的13个扩展之一。</p>
+    <br/>
+  </blockquote>
 </details>
 
 <img width="100%" src="https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/B38A17D34E9DADE1899DE4BE2A02A751.jpg">
