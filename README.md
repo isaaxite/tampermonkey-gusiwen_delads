@@ -6,8 +6,8 @@
 ![languages-count](https://img.shields.io/github/languages/count/isaaxite/tampermonkey-gusiwen_delads)
 ![files](https://img.shields.io/github/directory-file-count/isaaxite/tampermonkey-gusiwen_delads)
 ![code-size](https://img.shields.io/github/languages/code-size/isaaxite/tampermonkey-gusiwen_delads)
-![commit-activity](https://img.shields.io/github/commit-activity/t/isaaxite/tampermonkey-gusiwen_delads)
-![last-commit](https://img.shields.io/github/last-commit/isaaxite/tampermonkey-gusiwen_delads)
+[![commit-activity](https://img.shields.io/github/commit-activity/t/isaaxite/tampermonkey-gusiwen_delads)](https://github.com/isaaxite/tampermonkey-gusiwen_delads/commits/main)
+[![last-commit](https://img.shields.io/github/last-commit/isaaxite/tampermonkey-gusiwen_delads)](https://github.com/isaaxite/tampermonkey-gusiwen_delads/commits/main)
 [![issues-raw](https://img.shields.io/github/issues-raw/isaaxite/tampermonkey-gusiwen_delads)](https://github.com/isaaxite/tampermonkey-gusiwen_delads/issues)
 [![issues-closed-raw](https://img.shields.io/github/issues-closed-raw/isaaxite/tampermonkey-gusiwen_delads)](https://github.com/isaaxite/tampermonkey-gusiwen_delads/issues?q=is%3Aissue+is%3Aclosed)
 
