@@ -1,8 +1,3 @@
-/* hide prompt */
-#threeWeixin2 {
-  z-index: -100
-}
-
 /* alter width base on deleting right ads col */
 .main3 .left {
   width: 100%;
@@ -15,10 +10,4 @@
   width: 0 !important;
   height: 0 !important;
   overflow: hidden;
-}
-
-/* delete right-bottom ads */
-#btmwx {
-  width: 0 !important;
-  height: 0 !important;
 }
