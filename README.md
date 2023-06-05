@@ -41,7 +41,7 @@
 |[![Tampermonkey](https://github.com/isaaxite/tampermonkey-gusiwen_delads/raw/main/asset/Snipaste_2023-06-04_21-49-29.png)](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related)|
 |:--:|
 
-## 🛺 greasyfork 安装
+## 🛺 Greasy Fork 安装
 
 **step1**：进入[Greasyfork并搜索脚本：GushiwenDelads](https://greasyfork.org/en/scripts/467864-gushiwendelads)
 
