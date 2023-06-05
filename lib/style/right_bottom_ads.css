@@ -2,4 +2,11 @@
 #btmwx {
   width: 0 !important;
   height: 0 !important;
+  overflow: hidden;
+}
+
+.main3 > div.right > div.abcd, .main3 > div.right > div.abcd div {
+  width: 0 !important;
+  height: 0 !important;
+  overflow: hidden;
 }
