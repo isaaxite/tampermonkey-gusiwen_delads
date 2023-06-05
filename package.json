@@ -1,6 +1,6 @@
 {
   "name": "tampermonkey-gusiwen_delads",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "适用于古诗文网，tampermonkey的去广告脚本",
   "main": "index.js",
   "directories": {
