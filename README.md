@@ -8,8 +8,20 @@
 ![code-size](https://img.shields.io/github/languages/code-size/isaaxite/tampermonkey-gusiwen_delads)
 ![commit-activity](https://img.shields.io/github/commit-activity/t/isaaxite/tampermonkey-gusiwen_delads)
 ![last-commit](https://img.shields.io/github/last-commit/isaaxite/tampermonkey-gusiwen_delads)
+![issues-raw](https://img.shields.io/github/issues-raw/isaaxite/tampermonkey-gusiwen_delads)
+![issues-closed-raw](https://img.shields.io/github/issues-closed-raw/isaaxite/tampermonkey-gusiwen_delads)
 
 适用于[古诗文网]，一个去广告的 [Tampermonkey(油猴/窜改猴)] 脚本
+
+
+<details>
+  <summary>什么是 古诗文网 ？</summary>
+  <blockquote>
+    <br/>
+    <p><a href="https://www.gushiwen.cn/">古诗文网</a> 作为传承经典的网站专注于古诗文服务，致力于让古诗文爱好者更便捷地发表及获取古诗文相关资料。</p>
+    <br/>
+  </blockquote>
+</details>
 
 <details>
   <summary>什么是 Tampermonkey(油猴/窜改猴) ？</summary>
