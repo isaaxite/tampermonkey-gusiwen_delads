@@ -102,7 +102,7 @@
 
 # 📝 License
 
-[MIT] @ [isaaxite]
+Tampermonkey Gusiwen Delads are authored by [isaaxite] and are licensed under the [MIT].
 
 [MIT]: https://github.com/isaaxite/tampermonkey-gusiwen_delads/blob/main/LICENSE
 [isaaxite]: https://github.com/isaaxite
